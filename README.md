@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dineshkarthi95
 - 👀 I’m interested in Android Application Development
-- 🌱 I’m currently learning Latest things in Android
+- 🌱 I’m currently learning New things in Android
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 dineshkarthie@gmail.com
 
