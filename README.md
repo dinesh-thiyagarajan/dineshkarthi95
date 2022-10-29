@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dineshkarthi95
+- 👋 Hi, I’m Dinesh
 - 👀 I’m interested in Android Application Development
 - 🌱 I’m currently learning New things in Android
 - 💞️ I’m looking to collaborate on Open Source Projects
